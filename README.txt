@@ -1,7 +1,7 @@
 Author
 ------
 Mike Guilmot
-http://www.linsrv.net
+http://www.mikeguilmot.be
 
 License
 -------
