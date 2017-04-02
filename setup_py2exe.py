@@ -12,7 +12,7 @@ DATA=[
     'C:\\Python/Python34/Lib/site-packages/PyQt5/plugins/imageformats/qtiff.dll'
     ]),
     ('platforms',['C:\\Python/Python34/Lib/site-packages/PyQt5/plugins/platforms/qwindows.dll']),
-    ('.',[scripticon,'README.txt']),
+    ('.',[scripticon,'README.txt','LICENSE.txt']),
     scriptextraincludes
 ]
 
