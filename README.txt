@@ -1,3 +1,10 @@
+Info
+----
+Calculates the costs for buying a house in Belgium.
+My first 'real' python program. Was learning how to do stuff.
+Nothing really interesting.
+In Dutch. Not translated to English.
+
 Author
 ------
 Mike Guilmot
